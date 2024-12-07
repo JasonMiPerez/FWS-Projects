@@ -1,4 +1,4 @@
-# FWS-Projects
+# Linear Algebra Course Code
 
 This is my GitHub repository for projects I'm working on for my FWS Research Assistantship Program at CCNY
 
